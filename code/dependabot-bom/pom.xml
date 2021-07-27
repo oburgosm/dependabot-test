@@ -20,7 +20,7 @@
         <tomcat.version>9.0.40</tomcat.version>
         <!-- Direct dependency management properties -->
         <spring-cloud-dependencies.version>2020.0.1</spring-cloud-dependencies.version>
-        <xstream.version>1.4.0</xstream.version>
+        <xstream.version>1.4.17</xstream.version>
     </properties>
     <dependencyManagement>
         <dependencies>
